@@ -26,6 +26,7 @@ A Java program that solves any 9x9 Sudoku puzzle using the **backtracking algori
 ## Example
 
 **Input Board:**
+```text
 7 0 2 0 5 0 6 0 0
 0 0 0 0 0 3 0 0 0
 1 0 0 0 0 9 5 0 0
