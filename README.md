@@ -26,7 +26,7 @@ A Java program that solves any 9x9 Sudoku puzzle using the **backtracking algori
 ## Example
 
 **Input Board:**
-```text
+~~~text
 7 0 2 0 5 0 6 0 0
 0 0 0 0 0 3 0 0 0
 1 0 0 0 0 9 5 0 0
@@ -36,9 +36,11 @@ A Java program that solves any 9x9 Sudoku puzzle using the **backtracking algori
 0 0 9 7 0 0 0 0 5
 0 0 0 2 0 0 0 0 0
 0 0 7 0 4 0 2 0 3
+```
 
 
 **Solved Board:**
+~~~text
 7 3 2 9 5 1 6 8 4
 4 5 8 6 7 3 1 2 9
 1 6 9 4 2 9 5 3 7
@@ -48,7 +50,7 @@ A Java program that solves any 9x9 Sudoku puzzle using the **backtracking algori
 3 7 9 7 1 8 8 4 5
 5 8 6 2 9 4 3 1 2
 2 1 7 8 4 6 2 9 3
-
+```
 
 ## Learning Outcomes
 - Implementing **backtracking algorithms**.
